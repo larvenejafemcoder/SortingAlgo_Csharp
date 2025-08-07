@@ -1,4 +1,5 @@
-## csharp-sorting
+# Sorting Algoritms in Csharp
+## |formerly known as csharp-sorting by growingwiththeweb
 
 [![Build Status](https://travis-ci.org/gwtw/csharp-sorting.svg?branch=master)](https://travis-ci.org/gwtw/csharp-sorting)
 
